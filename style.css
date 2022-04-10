@@ -1,0 +1,384 @@
+body{
+    font-family: 'Baloo Bhai 2', cursive;
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    width: 1800px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header_logo{
+    width: 200px;
+    margin: 40px 100px;
+
+    display: inline;
+    margin-top: 50px;
+}
+.header_nav{
+    width: 700px;
+   
+    margin-top: 40px ;
+    margin-left: 600px;
+}
+.header_nav a{
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(77, 77, 77);
+    padding: 0px 25px;
+}
+.header_nav a:hover{
+    color: dodgerblue;
+}
+.nav_sup{
+    margin: 46px 8px;
+}
+.nav_sup i{
+    font-size: 25px;
+    color: rgb(77, 77, 77);
+}
+header{
+    box-shadow: 1px 1px 5px rgb(213, 213, 213);
+}
+.title{
+    margin-top: 100px;
+}
+.title_one{
+    display: inline-block;
+    margin-left: 620px;
+}
+.title_one img{
+    width: 600px;
+}
+.title_two h1{
+    text-align: center;
+    font-size: 75px;
+    font-weight: 500;
+    color: rgb(65, 65, 65);
+    margin-bottom: 0px;
+}
+.title_two p{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 0px;
+}
+.title_two a{
+    border: 1px solid rgb(27, 125, 223);;
+    width: 230px;
+   display: inline-block;
+   margin-left: 800px;
+   font-size: 35px;
+   padding-left: 45px;
+   text-decoration: none;
+   color: white;
+   background-color: rgb(27, 125, 223);
+   font-weight: 500;
+   margin-top: 10px;
+   border-radius: 5px;
+ 
+}
+.title_two a:hover{
+    background-color: black;
+}
+.support{
+    margin-top: 250px;
+}
+.sup_one{
+    width: 45%;
+    margin: auto;
+}
+.sup_one img{
+    width: 80%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.sup_two{
+    width: 45%;
+    margin: auto;
+}
+.sup_two h2{
+    font-size: 60px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.sup_two p{
+    font-size: 25px;
+}
+.sup_two .list{
+        margin-right: 80px;
+
+}
+.list1{
+    width: 45%;  
+    margin-right: 20px;
+}
+
+.list1 ul li{
+    font-size: 25px;
+}
+.sup_two img{
+    width: 800px;
+    margin-top: 20px;
+}
+.mid {
+    margin-top: 200px;
+}
+.box1 h3{
+    font-size: 55px;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+.box1 p{
+    text-align: center;
+    font-size: 33px;
+}
+.box2{
+    width: 100%;
+    margin: auto;
+}
+.box2 img{
+    width: 90%;
+    margin-left: 100px;
+}
+.box2 a{
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+    color: dodgerblue;
+}
+.box2 a i{
+   padding: 30px 0px 0px 10px;
+}
+.box2 a:hover{
+    color: black;
+}
+.mid1{
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+.box3{
+    width: 45%;
+    margin-left: 150px;
+}
+.box4{
+    width: 45%;
+    margin: auto;
+}
+.box3 h2{
+    font-size: 50px;
+    font-weight: 500;
+}
+.box3 p{
+    font-size: 28px;
+}
+.box3 a{
+    font-size: 25px;
+    color: dodgerblue;
+    text-decoration: none;
+    margin-bottom: 0px;
+}
+.box3 a i{
+    padding: 5px 0px 0px 10px;
+ }
+ .box3 a:hover{
+     color: black;
+ }
+ .box4_1{
+     width: 48%;
+     margin:0px;
+     height: 270px;
+     border: 1px solid rgb(178, 177, 177);
+  
+    }
+    .box4_1 h3{
+     padding: 0px;
+     font-size: 80px;
+     font-weight: 500;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     
+     text-align: center;
+ }
+ .box4_1 p{
+     font-size: 26px;
+     text-align: center;
+ }
+ .mid2{
+     margin-top: 200px;
+     margin-bottom: 100px;
+ }
+ .mid2_1{
+     width: 45%;
+     margin: auto;
+ }
+ .mid2_1 img{
+     width: 80%;
+     padding-left: 40px;
+ }
+ .mid2_2{
+     width: 45%;
+     margin: auto;
+     padding-left: 10px;
+ }
+ .mid2_2 h2{
+     font-size: 43px;
+     font-weight: 400;
+     margin-bottom: 0px;
+ }
+ .mid2_2 p{
+     font-size: 26px;
+ }
+ .mid2_2 a{
+     font-size: 25px;
+     color: rgb(21, 109, 197);
+     text-decoration: none;
+ }
+ .mid2_2 a:hover{
+     color: black;
+ }
+ .mid2_2 a i{
+    padding: 5px 0px 0px 10px;
+ }
+ .mid3{
+    margin-top: 200px;
+    margin-bottom: 100px;
+ }
+ .mid3 h2{
+    font-size: 55px;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.mid3 p{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 40px;
+    color: rgb(71, 71, 71);
+}
+.mid3 a{
+    border: 1px solid rgb(27, 125, 223);;
+    width: 230px;
+   display: inline-block;
+   margin-left: 750px;
+   font-size: 35px;
+   padding-left: 45px;
+   text-decoration: none;
+   color: white;
+   background-color: rgb(27, 125, 223);
+   font-weight: 500;
+   margin-top: 20px;
+   border-radius: 5px;
+   
+}
+.mid3 a:hover{
+    background-color: black;
+}
+.last{
+    margin-top: 200px;
+    margin-bottom: 100px;
+    border-top: 1px solid rgb(224, 224, 224);
+}
+.last .container{
+    margin-top: 30px;
+}
+.last1{
+    width: 20%;
+    margin-left: 60px;
+    margin-top: 45px;
+    /* background-color: bisque; */
+   /* padding-top: 0px; */
+}
+
+.last1 img{
+    width: 60%;
+}
+.last1 p{
+    font-size: 22px;
+    color: rgb(146, 145, 145);
+}
+.last a{
+    padding: 10px;
+    font-size: 30px;
+    color: rgb(120, 120, 120);
+    letter-spacing: 8px;
+}
+
+.last a:hover{
+    color: dodgerblue;
+}
+.last2{
+    width: 70%;
+    /* margin-left: 10px; */
+    /* padding: 0px 100px; */
+    margin-left: 0px;
+    /* background-color: aqua; */
+}
+.lat2_1{
+    width: 100%;
+    margin-left: 0px;
+}
+.last2_1 ul li:hover{
+    color: dodgerblue;
+}
+.last2_1 h2{
+    /* width: 100%; */
+    font-weight: 500;
+    padding:0px 87px;
+    font-size: 32px;
+    margin-left: 20px;
+    color: rgb(88, 88, 88);
+}
+.last2 ul li{
+    cursor: pointer;
+    font-size: 27px;
+    list-style-type: none;
+    padding:0px 70px;
+    margin-top: 0px;
+    font-weight: 500;
+    color: rgb(125, 124, 124);
+    /* letter-spacing: 3px; */
+}
+.final{
+    margin-top: 100px;
+ 
+}
+.para {
+width: 90%;
+margin: auto;
+}
+.para p{
+    font-size: 18px;
+    color: rgb(136, 136, 136);
+    font-weight: 500;
+}
+.para a{
+    text-decoration: none;
+    color: rgb(23, 120, 216);
+}
+.para a:hover{
+    color: black;
+}
+.foo{
+    margin-top: 30px;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.foo1{
+    display: inline-block;
+    margin-left: 320px;
+}
+.foo1 a{
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    color: rgb(152, 151, 151);
+    padding: 0px 10px;
+}
+.foo a:hover{
+    color: dodgerblue;
+}
